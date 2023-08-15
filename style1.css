@@ -1,0 +1,32 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+img{
+    width:100%;
+}
+button{
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 100px;
+    height: 45px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+a{
+    font-size: 40px;
+    font-family: 'Fasthand', cursive;
+
+}
+.centered h1{
+    font-size: 80px;
+    font-family: 'Erica One', cursive;
+}
